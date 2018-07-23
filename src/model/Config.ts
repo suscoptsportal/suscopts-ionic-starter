@@ -1,7 +1,7 @@
 export const Defaults: any = {
   //DEMO API
   //"api" : "http://localhost:5555",
-  "api": "http://api.suscopts.org",
+  "api": "https://api.suscopts.org",
   "basic": "<GET FROM PRIEST>",
   // if needed
   "churchid": 0,
